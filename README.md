@@ -19,3 +19,16 @@ the compiler for every used language.
 
 The tool will by default conform to rfc4180 and it's intended to match the end users 
 character encoding and locale.
+
+# How to build
+
+1. *At the root execute the following command: cpp -xyz SomeFile.cpp*
+2. *Any more steps?*
+
+## Prerequecites to build
+
+*Do I need make? Is it enough with just a cpp complier?*
+
+# How to run
+
+## Examples
